@@ -1,4 +1,4 @@
-# Howdy! 👋 My name is C. Fatih Ozkan
+# Hello! 👋 My name is Fatih Ozkan
 
 I am a fourth-year PhD student in Quantitative Methods at Baylor University.
 
