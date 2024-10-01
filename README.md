@@ -1,15 +1,20 @@
-Howdy! 👋 My name is CFatih Ozkan.
+# Howdy! 👋 My name is C. Fatih Ozkan
+
 I am a fourth-year PhD student in Quantitative Methods at Baylor University.
 
-For more info on who I am - I would check out my personal website.
+For more info on who I am, feel free to check out my [personal website](https://fatihozkann.com/).
 
-Some fast fun facts:
+### Some fun facts:
+- 🔭 I’m working with my advisor, [Dr. Grant Morgan](https://edp.soe.baylor.edu/grant-morgan), to develop statistical methods for large educational datasets.
+- 🌱 I’m currently taking courses in **Bayesian Statistics**, **Survival Analysis**, and **SAS Programming**.
+- 💡 I'm passionate about using statistics as a powerful tool to uncover stories that are not readily apparent.
+- ⚡ I'm a fan of the **Turkish Airlines EuroLeague**.
+- 📫 Let’s connect! [Email me](mailto:fatih_ozkan1@baylor.edu).
 
-🔭 I’m working with my advisor, Dr.Grant Morgan, to develop statistical methods for large educational datasets.
-🌱 I’m currently taking courses in Bayesian Statistics, Survival Analysis, and SAS Programming.
-💡 I'm driven by using statistics as a powerful tool to uncover stories that are not readily apparent
-⚡ I'm fun of Turkish Airlines EuroLeague.
-📫 Let's connect! Email me!
+---
+
+### GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
 
 <!---
 fatiihozkann/fatiihozkann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
