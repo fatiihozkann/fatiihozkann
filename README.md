@@ -1,6 +1,6 @@
 # Hello! 👋 My name is Fatih Ozkan
 
-I am a fourth-year PhD student in Quantitative Methods at Baylor University.
+I am a fourth-year PhD candidate in Quantitative Methods at Baylor University.
 
 For more info on who I am, feel free to check out my [personal website](https://fatihozkann.com/).
 
