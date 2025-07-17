@@ -14,7 +14,7 @@ For more info on who I am, feel free to check out my [personal website](https://
 ---
 
 ### GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+
 
 <!---
 fatiihozkann/fatiihozkann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
