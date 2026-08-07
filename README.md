@@ -17,7 +17,7 @@
 
 ---
 
-I build and evaluate measurement models — mostly for large-scale educational assessment, where the question is usually some version of *"does this test mean the same thing for everyone taking it?"* My work sits at the intersection of item response theory, invariance testing, and network psychometrics, and everything I publish is meant to be re-runnable from source.
+I build and evaluate measurement models, mostly for large-scale educational assessment, where the question is usually some version of *"does this test mean the same thing for everyone taking it?"* My work sits at the intersection of item response theory, invariance testing, and network psychometrics, and everything I publish is meant to be re-runnable from source.
 
 I'm now a postdoctoral researcher in the Department of Behavioral & Social Sciences at the University of Houston's Fertitta Family College of Medicine, applying that same measurement lens to health and behavioral science data.
 
