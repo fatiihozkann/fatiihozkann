@@ -74,6 +74,7 @@ Full list: [Google Scholar](https://scholar.google.com/citations?user=6QffMS4AAA
 
 ## 🏅 Recent recognition
 
+- Outstanding Dissertation Award, Department of Educational Psychology, Baylor University, 2026.
 - 🥇 First Place, Completed Doctoral Research — NAGC Research & Evaluation Network Graduate Student Research Gala (2025)
 - Outstanding Graduate Student Research Poster Award finalist — NCME (2025)
 - Conyers Scholars Residential Award (2025)
