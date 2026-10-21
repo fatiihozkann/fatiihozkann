@@ -66,7 +66,6 @@ Methods for estimating psychological networks when measurement bias is present r
 
 - **Ozkan, F.** (2026). Bayesian LASSO regression for identifying home and parental predictors of reading achievement: Evidence from PIRLS 2021 Türkiye. *Practical Assessment, Research, & Evaluation, 31*(1), Article 12.
 - Torres, D. K., Lutz, L. A., Song, J., **Ozkan, F.**, Spitsberg, T., Filippini, T., Matsuo, H., & Morgan, G. B. (2026). Rasch investigation of the CogAT Form 8 verbal, quantitative, and nonverbal domains in grades 3 through 5. *Journal of Psychoeducational Assessment, 44*(1), 20–35. [doi:10.1177/07342829251381509](https://doi.org/10.1177/07342829251381509)
-- **Ozkan, F.**, Ogurlu, U., & Ozbay, A. (2025). What changed since 1994: Attitudes towards gifted education. *Journal of Advanced Academics.* (Accepted)
 - Toraman Turk, S., et al. (2025). The use of financial incentives in qualitative research across disciplines. *Qualitative Social Sciences, 7*(2), 107–126.
 - **Ozkan, F.**, & Kettler, T. (2022). Effects of STEM education on the academic success and social-emotional development of gifted students. *Journal of Gifted Education and Creativity, 9*(2), 143–161.
 
